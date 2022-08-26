@@ -3,7 +3,7 @@
 
 
 
-# Mern-Starter
+# Mern-Starter Guide
 
 ### Guide To Initialize New Project
 
