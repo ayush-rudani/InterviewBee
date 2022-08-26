@@ -1,0 +1,29 @@
+{
+  "name": "interviewbee",
+  "version": "1.0.0",
+  "description": "- Initialize Packages ` npm init`\r - Add Some Initial Dependencies `npm i express mongoose body-parser bcryptjs validation`\r \t- bcryptjs is a password hashing function designed by Niels Provos and David Mazières\r \t- body-parser allows us to get the data throughout the request\r \t- express is our main framework\r \t- mongoose is used to connect/interact with MongoDB\r \t- validation (as its name implies) is used for validation\r - Add NodeMon `npm i -D nodemon`\r \t- nodemon is a utility that will monitor for any changes in your source and automatically restart your server.\r - create `index.js` in the root directory",
+  "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "delayed-stream": "^1.0.0",
+    "form-data": "^4.0.0",
+    "combined-stream": "^1.0.8",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Ayush777/InterviewBee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Ayush777/InterviewBee/issues"
+  },
+  "homepage": "https://github.com/R-Ayush777/InterviewBee#readme"
+}
